@@ -8,6 +8,6 @@ Analyzed the Netflix data from year 1998 to 2005 consisting of about 2.4 M recor
 
 Performed Exploratory Data Analysis for analyzing data by plotting graphs, charts and executed Feature Engineering by creating new relevant features like movie_id and customer_id
 
-Recommended users with movies based on past interest by developing SVD algorithm using user-item interaction matrix
+Recommended user with movies based on past interest by developing Singular Value Decomposition (SVD) algorithm using user-item interaction matrix
 
 
